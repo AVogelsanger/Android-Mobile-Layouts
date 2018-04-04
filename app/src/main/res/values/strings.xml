@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="relativeLayout">relativeLayout</string>
+    <string name="nome">João da Silva</string>
+    <string name="email">joaodasilva@fiap.com.br</string>
+    <string name="sair">sair</string>
+    <string name="absoluteLayout">absoluteLayout</string>
+    <string name="frameLayout">frameLayout</string>
+    <string name="digite_seu_usuario">digiteSeuUsuario</string>
+    <string name="login">login</string>
+    <string name="TableLayout">tableLayout</string>
+    <string name="bot_o">bot_o</string>
+</resources>
